@@ -1,0 +1,6 @@
+Flask==2.3.2
+Flask-SQLAlchemy==3.0.3
+werkzeug==2.3.4
+yfinance==2.2.4
+python-dotenv==1.0.0
+pandas==2.2.2
